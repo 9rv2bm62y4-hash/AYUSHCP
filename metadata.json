@@ -1,0 +1,6 @@
+{
+  "name": "Config by Network Kings - Network Simulator & Python Lab",
+  "description": "An interactive network simulator and lab configuration platform for CCNA, CCNP, and Network Automation with Cisco IOS CLI, topologies, and Python 3.10 lab execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
